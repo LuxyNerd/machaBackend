@@ -9,7 +9,7 @@ import static java.util.Collections.emptyList;
 
 /**
  * to help Spring Security loading user-specific data in the framework,
- * and extend the WebSecurityConfigurerAdapter class to customize the security framework to our needs.
+ * and extend the WebSecurityConfigurerAdapter class to customize the security framework.
  */
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService {
@@ -31,3 +31,4 @@ When a user tries to authenticate, this method receives the username, searches t
         return new org.springframework.security.core.userdetails.User(applicationUser.getUsername(), applicationUser.getPassword(), emptyList());
     }
 }
+
