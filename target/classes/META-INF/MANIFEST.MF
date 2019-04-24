@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Built-By: emine.turcan
 Build-Jdk: 12
-Implementation-Title: gs-rest-service
-Implementation-Version: 0.1.0
-Implementation-Vendor-Id: org.springframework
+Implementation-Title: macha
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.turcan
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
- -starter-parent/gs-rest-service
+ -starter-parent/macha
 Created-By: Maven Integration for Eclipse
 
