@@ -1,0 +1,13 @@
+com/turcan/machabackend/entity/UserDetailsServiceImpl.class
+com/turcan/machabackend/entity/UserRepository.class
+com/turcan/machabackend/endpoints/TestEndpoint.class
+com/turcan/machabackend/entity/User.class
+com/turcan/machabackend/MachaBackend.class
+com/turcan/machabackend/endpoints/UserEndpoint.class
+com/turcan/machabackend/security/JWTAuthorizationFilter.class
+com/turcan/machabackend/security/WebSecurity.class
+com/turcan/machabackend/security/SecurityConstants.class
+com/turcan/machabackend/security/JWTAuthenticationFilter.class
+com/turcan/machabackend/entity/TestRepository.class
+com/turcan/machabackend/entity/Test.class
+com/turcan/machabackend/response/TestResponse.class

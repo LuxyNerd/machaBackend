@@ -1,6 +1,13 @@
-/Users/edtu/OneDrive - EXXETA/Workspace/Eclipse/MachaBackend/src/main/java/com/turcan/machabackend/endpoints/RegisterEndpoint.java
-/Users/edtu/OneDrive - EXXETA/Workspace/Eclipse/MachaBackend/src/main/java/com/turcan/machabackend/database/MySQLDatabase.java
-/Users/edtu/OneDrive - EXXETA/Workspace/Eclipse/MachaBackend/src/main/java/com/turcan/machabackend/database/entity/User.java
-/Users/edtu/OneDrive - EXXETA/Workspace/Eclipse/MachaBackend/src/main/java/com/turcan/machabackend/database/entity/UserRepository.java
-/Users/edtu/OneDrive - EXXETA/Workspace/Eclipse/MachaBackend/src/main/java/com/turcan/machabackend/MachaBackend.java
-/Users/edtu/OneDrive - EXXETA/Workspace/Eclipse/MachaBackend/src/main/java/com/turcan/machabackend/classes/Register.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/entity/UserDetailsServiceImpl.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/response/TestResponse.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/entity/UserRepository.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/endpoints/TestEndpoint.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/entity/User.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/MachaBackend.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/security/SecurityConstants.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/entity/TestRepository.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/endpoints/UserEndpoint.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/security/WebSecurity.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/entity/Test.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/security/JWTAuthorizationFilter.java
+/Users/emine.turcan/Projekt/machaBackend/src/main/java/com/turcan/machabackend/security/JWTAuthenticationFilter.java
